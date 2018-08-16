@@ -30,6 +30,7 @@ Hypervisor:
 Virtual Machines versus Containers:
 -----------------------------------
 ![VM's vs containers](https://github.com/devops2201/Docker-Deep-Dive/blob/master/ContainersvsVMs.png)
+
 VMs:
 ----
 * Virtual machines (VMs) are an abstraction of physical hardware turning one server into many servers
