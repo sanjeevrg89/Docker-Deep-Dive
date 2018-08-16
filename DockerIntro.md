@@ -1,11 +1,13 @@
 <h1> History about Docker:</h1>
-  •	Docker was released in 2013 by a hosting company called Dot Cloud (Company no longer exists)
-  •	It’s been 5 years since Docker was released and now it’s a revolution.
-  •	Huge shift in infrastructure [Mainframe to PC, Bare metal to Virtualization, Data Center to Cloud, Containers]
+1.	Docker was released in 2013 by a hosting company called Dot Cloud (Company no longer exists)
+2.	It’s been 5 years since Docker was released and now it’s a revolution.
+3.	Huge shift in infrastructure [Mainframe to PC, Bare metal to Virtualization, Data Center to Cloud, Containers]
+
   
 <h1> Overview of Docker: </h1>
-  •	Docker is an open source platform for developing, shipping, and running applications.
-  •	Docker is an open-source project that automates the deployment of applications inside software containers, by providing an additional layer of abstraction and automation of operating system-level virtualization on Linux
-  •	Docker packages an application and all its dependencies in a ‘virtual container’ so that it can be run on any Linux system or distribution
-  •	Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
-  •	Docker provides the ability to package and run an application in a loosely isolated environment called a container
+1.	Docker is an open source platform for developing, shipping, and running applications.
+2.	Docker is an open-source project that automates the deployment of applications inside software containers, by providing an additional layer of abstraction and automation of operating system-level virtualization on Linux
+3.	Docker packages an application and all its dependencies in a ‘virtual container’ so that it can be run on any Linux system or distribution
+4.	Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
+5.	Docker provides the ability to package and run an application in a loosely isolated environment called a container
+
