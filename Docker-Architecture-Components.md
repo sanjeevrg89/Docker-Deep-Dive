@@ -1,7 +1,7 @@
 Docker Architecture:
 ====================
 
-![Docker Architecture](https://github.com/devops2201/Docker-Deep-Dive/blob/master/Dockercomponents.png)
+![Docker Architecture](https://github.com/devops2201/Docker-Deep-Dive/blob/master/images/Dockercomponents.png)
 
 * Docker uses a client-server architecture
 * Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers
@@ -15,7 +15,7 @@ Docker Engine:
 2. A REST API which specifies interfaces that programs can use to talk to the daemon and instruct it what to do
 3. A command line interface (CLI) client (the docker command)
 
-![Docker Engine](https://github.com/devops2201/Docker-Deep-Dive/blob/master/Dockerengine.png)
+![Docker Engine](https://github.com/devops2201/Docker-Deep-Dive/blob/master/images/Dockerengine.png)
 
 
 Docker Components:
