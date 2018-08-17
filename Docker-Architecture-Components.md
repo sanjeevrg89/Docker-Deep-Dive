@@ -1,5 +1,8 @@
 Docker Architecture:
 ====================
+
+![Docker Architecture](https://github.com/devops2201/Docker-Deep-Dive/blob/master/Dockercomponents.png)
+
 * Docker uses a client-server architecture
 * Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers
 * Docker client and daemon can run on the same system, or you can connect a Docker client to a remote Docker daemon
@@ -40,5 +43,3 @@ Docker Registry:
 * Docker Hub and Docker Cloud are public registries that anyone can use, and Docker is configured to look for images on Docker Hub by default
 * Docker Hub -> https://hub.docker.com/
 * You can run your own private registry
-
-![Docker Components](https://github.com/devops2201/Docker-Deep-Dive/blob/master/Dockercomponents.png)
